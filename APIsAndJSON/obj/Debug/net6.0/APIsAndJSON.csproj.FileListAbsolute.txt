@@ -1,0 +1,17 @@
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.exe
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.deps.json
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.runtimeconfig.json
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.dll
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.pdb
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.AssemblyReference.cache
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.AssemblyInfoInputs.cache
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.AssemblyInfo.cs
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.CoreCompileInputs.cache
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.CopyComplete
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.dll
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\refint\APIsAndJSON.dll
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.pdb
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.genruntimeconfig.cache
+D:\Coding School\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\ref\APIsAndJSON.dll
